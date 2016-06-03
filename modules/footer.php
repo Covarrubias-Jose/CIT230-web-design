@@ -1,3 +1,4 @@
+<nav>
 <ul>     
     <li><a href="aboutus">About Us</a></li>
     <li><a href="contactus.php">Contact Us</a>
@@ -7,6 +8,7 @@
         </ul>
     </li>
 </ul>
+</nav>
 <div>
     <p>Last Update: 3 June, 2016</p>
 </div>
