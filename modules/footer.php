@@ -7,3 +7,6 @@
         </ul>
     </li>
 </ul>
+<div>
+    <p>Last Update: 3 June, 2016</p>
+</div>
