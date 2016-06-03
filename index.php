@@ -32,13 +32,7 @@ My site Home page.
            </div>
        </aside>
        <footer role="contentinfo">
-           <div>
-              <ul>
-                 <li>Site Plan</li>
-                 <li>Teaching Presentation</li>
-              </ul>   
-           </div>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
+           <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
        </footer>
     </div>
   </body>
