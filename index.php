@@ -12,9 +12,7 @@ My site Home page.
   <body id="home">
     <div>
         <header role="banner">
-            <div>
-                <h1>YoucanIcan.covsite.com</h1>  
-            </div>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
        </header>
        <nav role="navigation">
            <div>
@@ -40,6 +38,7 @@ My site Home page.
                  <li>Teaching Presentation</li>
               </ul>   
            </div>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
        </footer>
     </div>
   </body>
