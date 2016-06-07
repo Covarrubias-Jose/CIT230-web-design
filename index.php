@@ -14,6 +14,7 @@ My site Home page.
         <header role="banner">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
        </header>
+        <hr>
        <nav role="navigation">
   
        </nav>
@@ -33,6 +34,7 @@ My site Home page.
                  
            </div>
        </aside>
+        <hr>
        <footer role="contentinfo">
            <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
        </footer>
