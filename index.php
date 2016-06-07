@@ -15,9 +15,7 @@ My site Home page.
             <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
        </header>
        <nav role="navigation">
-           <div>
-               
-           </div>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation'; ?>  
        </nav>
        <main role="main">
            <div>

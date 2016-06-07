@@ -1,13 +1,19 @@
 <h1>YoucanIcan</h1> 
-<h2>The tutorials that will save you money and teach you one or two things along the way.</h2><ul>
-      <li><a href="index.php">Home</a></li>
-      <li><a href="#">Menu</a></li>
-      <li><a href="#">MS Tutorials</a>
+<h2>The tutorials that will save you money and teach you one or two things along the way.</h2>
+<ul>
+      <li><a href="index.php">Main Page</a></li>
+      <li><a href="#">Microsoft Office Tutorials</a>
      	<ul>
             <li><a href="word.php">Word</a></li>
             <li><a href="excel.php">Excel</a></li>
             <li><a href="powerpoint.php">PowerPoint</a></li>
        	</ul>
+      </li>
+      <li><a href="home.php">Home</a>
+          <ul>
+              <li>Ideas</li>
+              <li>Maintenance</li>
+          </ul>
       </li>
       <li><a href="auto.php">Auto</a>
         <ul>
