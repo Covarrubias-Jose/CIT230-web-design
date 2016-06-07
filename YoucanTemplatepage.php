@@ -18,15 +18,7 @@ My site Home page.
   
        </nav>
        <main role="main">
-           <audio controls preload="none">
-               <source src="audiolibrary/CIT230audio.mp3">
-               <p>This audio was recorded with Mac audio recorder and is not formated</p>
-           </audio>
-           <br>
-           <audio controls preload="none">
-               <source src="audiolibrary/YoucanAudio.mp3">
-               <p>This audio file is recorded with Audacity</p>
-           </audio>
+
        </main>
        <aside role="complementary">
            <div>

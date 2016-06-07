@@ -51,7 +51,7 @@
      
      
    <footer>
-   <script src="/javascript/analytics.js"></script>
+   <script src="/javaScript/analytics.js"></script>
        <p>&copy;2015 &bull; Paul Cheney &bull; <a href="plan.php">Site Plan Link</a> &bull; <a href="presentation.php">Teaching Presentation</a></p>
    
    </footer>
