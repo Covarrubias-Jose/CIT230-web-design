@@ -18,7 +18,7 @@ My site Home page.
 
             </nav>
             <main role="main">
-
+                <p>Place for excel tutorials</p>
             </main>
             <aside role="complementary">
                 <div>
