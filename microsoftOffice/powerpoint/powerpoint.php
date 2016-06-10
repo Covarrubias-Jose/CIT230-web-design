@@ -12,7 +12,7 @@ My site Home page.
     <body id="home">
         <div>
             <header role="banner">
-                <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/header.php'; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT'] .'/modules/header.php'; ?>
             </header>
             <nav role="navigation">
                 <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>

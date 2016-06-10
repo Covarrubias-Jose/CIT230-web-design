@@ -2,7 +2,7 @@
 <hr>
 <nav>
 <ul>  
-    <li><a href="siteplan.php">Site Plan</a></li>
+    <li><a href="/plandemo/plan.html">Site Plan</a></li>
     <li><a href="teachingpresentation.php">Teaching Presentation</a></li>
     <li><a href="aboutus">About Us</a></li>
     <li><a href="contactus.php">Contact Us</a>
