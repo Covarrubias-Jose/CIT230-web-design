@@ -1,3 +1,5 @@
+<br>
+<hr>
 <nav>
 <ul>  
     <li><a href="siteplan.php">Site Plan</a></li>

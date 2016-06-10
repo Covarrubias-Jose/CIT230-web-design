@@ -5,7 +5,7 @@
     <li><a href="#">Microsoft Office Tutorials</a>
       <ul>
          <li><a href="word.php">Word</a></li>
-         <li><a href="excel.php">Excel</a></li>
+         <li><a href="microsoftOffice/excel/excel.php">Excel</a></li>
          <li><a href="powerpoint.php">PowerPoint</a></li>
       </ul>
     </li>
@@ -22,3 +22,5 @@
        </ul>
     </li>
 </ul>
+<hr>
+<br>
