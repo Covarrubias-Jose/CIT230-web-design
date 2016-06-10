@@ -1,7 +1,7 @@
 <hr>
 <p>This area is for the navigation</p>
 <nav>
-<ul>
+    <ul>
     <li><a href="/index.php">Main Page</a></li>
     <li><a href="#">Microsoft Office Tutorials</a>
       <ul>

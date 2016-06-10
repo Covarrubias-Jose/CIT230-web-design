@@ -1,7 +1,8 @@
 <br>
 <hr>
 <nav>
-<ul>  
+    <p>This is my footer area.</p>
+    <ul>  
     <li><a href="/plandemo/plan.html">Site Plan</a></li>
     <li><a href="teachingpresentation.php">Teaching Presentation</a></li>
     <li><a href="aboutus">About Us</a></li>
