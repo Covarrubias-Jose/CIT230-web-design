@@ -16,9 +16,11 @@ My site Home page.
        </header>
       
        <nav role="navigation">
-  
+            <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
        </nav>
        <main role="main">
+           <p>This is now the home page or main page</p>
+           <br>
            <audio controls preload="none">
                <source src="audiolibrary/CIT230audio.mp3">
                <p>This audio was recorded with Mac audio recorder and is not formated</p>
