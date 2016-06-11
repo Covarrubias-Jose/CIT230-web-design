@@ -4,10 +4,7 @@ My site Home page.
 -->
 <html  lang="en-us">
    <head>
-      <meta charset="UTF-8">
-      <title>Home | covsite.com</title>
-      <meta name="autor" content="Jose Covarrubias">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/head.php'; ?>
    </head>
   <body id="home">
     <div>

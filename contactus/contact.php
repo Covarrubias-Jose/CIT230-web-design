@@ -12,10 +12,20 @@ My site Home page.
                 <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/header.php'; ?>
             </header>
             <nav role="navigation">
-                <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
+
             </nav>
             <main role="main">
-                <p>Place for the Word tutorials.</p>
+                <form method="post" action="." id="contactform">
+                    <label for="name">Name:</label><br>
+                    <input type="text" name="name" id="name" size="40"><br
+                    <label for="email">Email:</label><br>
+                    <input type="email" name="email" id="email" size="50"><br>
+                    <label for="subject">Subject></label><br>
+                    <input type="text" name="subject" id="subject" size="50"><br>
+                    <label for="message">Message:</label><br>
+                    <textarea name="message" id="message" cols="50" rows="10"></textarea><br>
+                    
+                </form>
             </main>
             <aside role="complementary">
                 <div>
