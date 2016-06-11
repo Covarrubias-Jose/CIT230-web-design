@@ -4,6 +4,7 @@ My site Home page.
 -->
 <html  lang="en-us">
     <head>
+        <title>Excel Tutorials</title>
           <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/head.php'; ?>
     </head>
     <body id="home">
