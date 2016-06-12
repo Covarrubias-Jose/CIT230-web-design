@@ -22,6 +22,11 @@
           <li><a href="">Maintenance</a></li>
        </ul>
     </li>
+    <li><a>Other Tutorials</a>
+        <ul>
+            <li><a href="/otherTutorials/resizingImages.php">Resize Images</a></li>
+        </ul>
+    </li>
 </ul>
 </nav>
 <hr>
