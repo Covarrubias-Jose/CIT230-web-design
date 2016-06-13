@@ -15,5 +15,5 @@
 </ul>
 </nav>
 <div>
-    <p>Last Update: 10 June, 2016</p>
+    <p>Last Update: 11 June, 2016</p>
 </div>
