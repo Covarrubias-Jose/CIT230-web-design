@@ -23,7 +23,7 @@ My site Home page.
                 <p>In this tutorial we will show you how to resize an image using<br>
                    the application Preview on a Mac computer.
                 </p>
-                <video src="/videolibrary/resizingImages.mp4" controls preload</video>
+                <video src="/videolibrary/resizingImages.mp4" controls preload </video>
             </main>
             <aside role="complementary">
                 <div>
