@@ -5,7 +5,7 @@
     <ul>  
     <li><a href="/plandemo/plan.html">Site Plan</a></li>
     <li><a href="teachingpresentation.php">Teaching Presentation</a></li>
-    <li><a href="aboutus">About Us</a></li>
+    <li><a href="/aboutus/aboutUs.php">About Us</a></li>
     <li><a href="/contactus/contact.php">Contact Us</a>
         <ul>
             <li><a href="requesttutorial.php">Request a tutorial.</a></li>
