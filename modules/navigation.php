@@ -3,6 +3,7 @@
 <nav>
     <ul>
     <li><a href="/index.php">Main Page</a></li>
+    <li><a href="/rotator/index.php">Image Carousel</a></li>
     <li><a href="#">Microsoft Office Tutorials</a>
       <ul>
           <li><a href="/microsoftOffice/word/word.php">Word</a></li>
