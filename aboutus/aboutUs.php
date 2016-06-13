@@ -27,6 +27,14 @@ My site Home page.
                    own videos, or databank will expand, and the possibilities that you will find what you need will grow.<br>
                    We thank you for visiting us, and contribute for a place of dedicated people that love to help each other.</p>
                 </div>
+                <p>This audio was recorded with Mac audio recorder and is not formated</p>
+                <audio controls preload="none">
+                <source src="audiolibrary/CIT230audio.mp3">
+                </audio>
+                <p>This audio file is recorded with Audacity</p>
+                <audio controls preload="none">
+                <source src="audiolibrary/YoucanAudio.mp3">
+                </audio>
             </main>
             <aside role="complementary">
                 <div>

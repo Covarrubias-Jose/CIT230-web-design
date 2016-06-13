@@ -17,17 +17,9 @@ My site Home page.
             <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
        </nav>
        <main role="main">
-           <p>This is now the home page or main page</p>
-           <br>
-           <audio controls preload="none">
-               <source src="audiolibrary/CIT230audio.mp3">
-               <p>This audio was recorded with Mac audio recorder and is not formated</p>
-           </audio>
-           <br>
-           <audio controls preload="none">
-               <source src="audiolibrary/YoucanAudio.mp3">
-               <p>This audio file is recorded with Audacity</p>
-           </audio>
+           <h2>This is now the home page or main page</h2>
+ 
+
        </main>
        <aside role="complementary">
            <div>
