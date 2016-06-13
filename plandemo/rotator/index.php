@@ -18,11 +18,11 @@
 </head>
 <body>
   <header role="banner" id="page-header">
-      <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/header.php'; ?>
+      <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
 <h1>Image Gallery Rotator</h1>
   </header>
   <nav role="navigation" id="page-nav">
-      <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/navigation.php'; ?>
+      <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
 <!-- No navigation elements in this file -->
 </nav>
   <main role="main">
@@ -32,7 +32,7 @@
     </figure>
     </main>
   <footer role="contentinfo" id="page-footer">
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/footer.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
 </footer>
 <!-- Put the script element here -->
 
