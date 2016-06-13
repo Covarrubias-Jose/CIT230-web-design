@@ -4,7 +4,7 @@
 <title>A JavaScript Carousel</title>
     <meta name="description" content="Building a JavaScript">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="auto" content="Jose covarrubias/ instructor">
+    <meta name="author" content="Jose covarrubias/ instructor">
 <style>
   figure{
     max-width: 1000px;
