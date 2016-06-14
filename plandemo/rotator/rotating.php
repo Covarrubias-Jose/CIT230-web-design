@@ -18,8 +18,8 @@
 </head>
 <body>
   <header role="banner" id="page-header">
-      <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
-<h1>Image Gallery Rotator</h1>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
+        <h1>Image Gallery Rotator</h1>
   </header>
   <nav role="navigation" id="page-nav">
       <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>

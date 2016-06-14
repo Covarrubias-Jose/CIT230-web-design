@@ -6,4 +6,5 @@
 <h2>The tutorials that will save you money<br>
     and teach you one or two things along the way.
 </h2>
-<p><b>This is the header area.</b></p>
+<p><b>^ This is the header area. ^</b></p>
+<hr>

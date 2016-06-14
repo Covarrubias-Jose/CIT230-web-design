@@ -8,7 +8,7 @@ My site Home page.
             <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/head.php'; ?>
    </head>
   <body id="home">
-    <div>
+    
         <header role="banner">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
        </header>
@@ -26,6 +26,6 @@ My site Home page.
        <footer role="contentinfo">
            <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
        </footer>
-    </div>
+    
   </body>
 </html>

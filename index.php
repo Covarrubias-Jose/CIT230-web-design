@@ -8,14 +8,15 @@ My site Home page.
       <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/head.php'; ?>
    </head>
   <body id="home">
-    <div>
+    
         <header role="banner">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
        </header>
       
-       <nav role="navigation">
+        <nav role="navigation">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
-       </nav>
+        </nav>
+     
        <main role="main">
            <h2>This is now the home page or main page</h2>
           
@@ -30,6 +31,6 @@ My site Home page.
        <footer role="contentinfo">
            <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
        </footer>
-    </div>
+    
   </body>
 </html>

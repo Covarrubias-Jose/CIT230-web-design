@@ -1,7 +1,6 @@
 <br>
 <hr>
 <link rel="stylesheet" href="/css/youCanTemplateFont.css">
-<nav>
     <p><b>This is my footer area.</b></p>
     <ul>  
     <li><a href="/plandemo/plan.html">Site Plan</a></li>
@@ -14,7 +13,7 @@
         </ul>
     </li>
 </ul>
-</nav>
+<br>
 <div>
     <p>Last Update: 11 June, 2016</p>
 </div>
