@@ -1,7 +1,8 @@
 <br>
 <hr>
+<link rel="stylesheet" href="/css/youCanTemplateFont.css">
 <nav>
-    <p>This is my footer area.</p>
+    <p><b>This is my footer area.</b></p>
     <ul>  
     <li><a href="/plandemo/plan.html">Site Plan</a></li>
     <li><a href="teachingpresentation.php">Teaching Presentation</a></li>

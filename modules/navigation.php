@@ -1,5 +1,5 @@
 <hr>
-<p>This area is for the navigation</p>
+<p><b>This area is for the navigation</b></p>
 <nav>
     <ul>
     <li><a href="/index.php">Main Page</a></li>

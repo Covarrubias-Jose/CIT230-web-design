@@ -4,8 +4,8 @@ My site Home page.
 -->
 <html  lang="en-us">
     <head>
-        <title></title>
-        <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/head.php'; ?>
+        <title>Word tutorials</title>
+          <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/head.php'; ?>
     </head>
     <body id="home">
         <div>
@@ -13,11 +13,14 @@ My site Home page.
                 <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/header.php'; ?>
             </header>
             <nav role="navigation">
-                <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/navigation.php'; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
             </nav>
             <main role="main">
+                <p>Place for the Word tutorials.</p>
+                
                 <p>Place for Microsoft Word tutorials.</p>
                 <p>Videos are coming soon.</p>
+                
             </main>
             <aside role="complementary">
                 <div>
