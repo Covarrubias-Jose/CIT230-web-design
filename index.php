@@ -18,7 +18,7 @@ My site Home page.
        </nav>
        <main role="main">
            <h2>This is now the home page or main page</h2>
-           <p>testing</p>
+          
 
        </main>
        <aside role="complementary">
