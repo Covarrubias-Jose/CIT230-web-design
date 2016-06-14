@@ -13,7 +13,7 @@
     </li>
     <li><a>Home</a>
       <ul>
-          <li><a>Ideas</a></li>
+         <li><a>Ideas</a></li>
          <li><a>Maintenance</a>
             <ul>
                  <li><a href="/home/homemaintenance/acManitenance.php">AC Maintenance</a></li>

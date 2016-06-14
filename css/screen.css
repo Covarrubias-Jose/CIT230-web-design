@@ -47,7 +47,14 @@ nav ul li ul li { /* overides the float and line from the parent ul */
 	float: none;
 	border-bottom: solid 1px rgba(255,255,255,0.5);
 }
-nav ul li ul li ul {/* this line is for the 3rd menu list from dropdown*/
+nav ul li ul li ul{
+        z-index:99;
+	position: absolute;
+	background-color: #333333;
+	left: -999em; /* pushes the menu way off to the side */
+	width: 10em;
+}
+nav ul li ul li ul li {/* this line is for the 3rd menu list from dropdown*/
     float: none;
     border-bottom: solid 1px rgba(255,255,255,0.5);
 }
