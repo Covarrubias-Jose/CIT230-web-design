@@ -14,6 +14,7 @@
     max-width: 100%;
   }
 </style>
+ <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
 </head>
 <body>
   <header role="banner" id="page-header">
