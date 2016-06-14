@@ -1,13 +1,14 @@
 <hr>
 <p><b>This area is for the navigation</b></p>
 <nav>
-    <ul>
+    <ul class="primary-nav">
     <li><a href="/index.php">Main Page</a></li>
     <li><a href="/rotator/index.php">Image Carousel</a></li>
     <li><a>Microsoft Office Tutorials</a>
       <ul>
           <li><a href="/microsoftOffice/word/word.php">Word</a></li>
          <li><a href="/microsoftOffice/excel/excel.php">Excel</a></li>
+         <li><a href="/microsoftOffice/excel/excel2.php">excel2</a></li>
          <li><a href="/microsoftOffice/powerpoint/powerpoint.php">PowerPoint</a></li>
       </ul>
     </li>
@@ -37,5 +38,8 @@
         </ul>
     </li>
 </ul>
+    
+    <!-- PHONE HAMBURGER BUTTON -->
+<button class="nav-button">Toggle Navigation</button>
 </nav>
 <hr>
