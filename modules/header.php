@@ -4,5 +4,4 @@
 <h2>The tutorials that will save you money and teach you one or two things along the way.</h2>
 <br>
 <p><b>This is the header area.</b></p>
-<h1>I have bad news, but i think i fixed</h1>
 <br>
