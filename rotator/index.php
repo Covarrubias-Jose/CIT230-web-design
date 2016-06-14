@@ -14,11 +14,11 @@
     max-width: 100%;
   }
 </style>
- <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
 </head>
 <body>
   <header role="banner" id="page-header">
 <h1>Image Gallery Rotator</h1>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
   </header>
   <nav role="navigation" id="page-nav">
 <!-- No navigation elements in this file -->
