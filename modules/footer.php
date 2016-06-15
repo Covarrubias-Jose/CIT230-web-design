@@ -16,4 +16,5 @@
 <br>
 <div>
     <p>Last Update: 11 June, 2016</p>
+    <p>&copy;2016 covsite.com</p>
 </div>

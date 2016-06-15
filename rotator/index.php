@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
 <head>
 <title>A JavaScript Carousel</title>
     <meta name="description" content="Building a JavaScript">
@@ -20,8 +20,8 @@
 <h1>Image Gallery Rotator</h1>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/header.php'; ?>
   </header>
-  <nav role="navigation" id="page-nav">
-<!-- No navigation elements in this file -->
+<nav role="navigation" id="page-nav">
+    <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?> 
 </nav>
   <main role="main">
     <p>The gallery appears below and should rotate every 5 seconds except when the mouse hovers over the image when the JavaScript has been implemented.</p>
@@ -29,11 +29,11 @@
       <figcaption id="mainImageCaption">Cacti in bloom in the Grand Canyon</figcaption>
     </figure>
     </main>
-  <footer role="contentinfo" id="page-footer">
-This is the footer
+<footer role="contentinfo" id="page-footer">
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
 </footer>
+    
 <!-- Put the script element here -->
-
-<script src="rotator.js"></script>
+<script src="/rotator/rotator.js"></script>
 </body>
 </html>

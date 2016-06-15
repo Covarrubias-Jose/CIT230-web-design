@@ -25,6 +25,7 @@ My site Home page.
        </aside>
        <footer role="contentinfo">
            <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/footer.php'; ?>
+           
        </footer>
     
   </body>
