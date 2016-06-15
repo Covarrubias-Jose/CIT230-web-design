@@ -4,10 +4,8 @@ My site Home page.
 -->
 <html  lang="en-us">
     <head>
-        <meta charset="UTF-8">
-        <title>Other Tutorials</title>
-        <meta name="autor" content="Jose Covarrubias">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Resizing Images</title>
+        <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/head.php'; ?>
     </head>
     <body id="home">
         <div>
@@ -15,15 +13,11 @@ My site Home page.
                 <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/header.php'; ?>
             </header>
             <nav role="navigation">
-                <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
+                <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/navigation.php'; ?>
             </nav>
             <main role="main">
-                <p>Place for other tutorials.</p><br>
-                
-                <p>In this tutorial we will show you how to resize an image using<br>
-                   the application Preview on a Mac computer.
-                </p>
-                <video src="/videolibrary/resizingImages.mp4" controls preload </video>
+                <p>This video was recorded with Quick Timer on a Mac, and it is not formated yet.</p>
+                <video src="/videolibrary/resizingImages.mp4" width="660" height="580" preload controls></video>
             </main>
             <aside role="complementary">
                 <div>

@@ -3,7 +3,7 @@
 <nav>
     <ul class="primary-nav">
     <li><a href="/index.php">Main Page</a></li>
-    <li><a href="/rotator/index.php">Image Carousel</a></li>
+    <li><a href="/rotator/imageRotator.php">Image Carousel</a></li>
     <li><a>Microsoft Office Tutorials</a>
       <ul>
          <li><a href="/microsoftOffice/word/word.php">Word</a></li>
@@ -38,6 +38,7 @@
     <li><a>Other Tutorials</a>
         <ul>
             <li><a href="/otherTutorials/resizingImages.php">Resize Images</a></li>
+            <li><a href="/otherTutorials/testingTemplate.php">testing template</a></li>
         </ul>
     </li>
 </ul>
