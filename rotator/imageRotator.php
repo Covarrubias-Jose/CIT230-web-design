@@ -30,7 +30,7 @@ My site Home page.
             <main role="main">
                     <h1>Image Gallery Rotator</h1>
                     <p>The gallery appears below and should rotate every 5 seconds except when the mouse hovers over the image when the JavaScript has been implemented.</p>
-                    <figure><img src="canyonpix/blooms.jpg" id="mainImage" alt="Cacti in bloom in the Grand Canyon">
+                    <figure><img src="/rotator/canyonpix/blooms.jpg" id="mainImage" alt="Cacti in bloom in the Grand Canyon">
                       <figcaption id="mainImageCaption">Cacti in bloom in the Grand Canyon</figcaption>
                     </figure>
             </main>
