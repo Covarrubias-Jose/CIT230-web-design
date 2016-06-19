@@ -1,10 +1,28 @@
+
+
 @import url(https://fonts.googleapis.com/css?family=Coming+Soon:400);
 
 header{
     
     font-family: 'Coming+Soon', sans-serif;
+    background-color: #B7B777;
+    padding: 10px;
+}
+body{
+    
+    background-image: url("siteImages/gearWheels.jpg");
+
+}
+main {
+    border-width: 3px 4px 3px 4px;
+    border-style: solid;
+    padding: 10px;
 }
 
 footer{
     font-family: 'Coming+Soon', sans-serif;
+    background-color: #B7B777;
+    padding: 10px;
+    padding-left: 10px;
 }
+

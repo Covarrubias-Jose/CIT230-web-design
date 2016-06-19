@@ -19,13 +19,14 @@ My site Home page.
                 <div>
                 <h2>Who we are.</h2>
                 
-                <p>Our motivation to create this site is the idea that we could have a place for learning.<br>
-                   Not only for learning, but also free from irrelevant information, or videos that make no sense,<br>
-                   because if we are watching a tutorial about car repairs, we don't need a food related video as the<br>
-                   next video to play. We welcome you to a site where the information will be focused on the topic that<br>
-                   you select, nothing else. Our site is new, but as user visit, request more topics, and submit their<br>
-                   own videos, or databank will expand, and the possibilities that you will find what you need will grow.<br>
-                   We thank you for visiting us, and contribute for a place of dedicated people that love to help each other.</p>
+                <p>Our motivation to create this site is the idea that we could have a place for learning.
+                   Not only for learning, but also free from irrelevant information, or videos that make no sense,
+                   because if we are watching a tutorial about car repairs, we don't need a food related video as the
+                   next video to play. We welcome you to a site where the information will be focused on the topic that
+                   you select, nothing else. Our site is new, but as user visit, request more topics, and submit their
+                   own videos, or databank will expand, and the possibilities that you will find what you need will grow.
+                   We thank you for visiting us, and contribute for a place of dedicated people that love to help each other.
+                </p>
                 </div>
                 <p>This audio was recorded with Mac audio recorder and is not formated</p>
                 <audio controls preload="none">

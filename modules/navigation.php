@@ -13,7 +13,11 @@
     </li>
     <li><a>Home</a>
       <ul>
-         <li><a>Ideas</a></li>
+         <li><a>Ideas</a>
+             <ul>
+                 <li><a>For the outside.</a></li>
+             </ul>
+         </li>
          <li><a>Maintenance</a>
             <ul>
                  <li><a href="/home/homemaintenance/acManitenance.php">AC Maintenance</a></li>
@@ -47,4 +51,4 @@
 <button class="nav-button">Toggle Navigation</button>
 <div class="keepOpen"></div>
 </nav>
-<br>
+

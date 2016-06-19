@@ -1,7 +1,7 @@
-<br>
-<hr>
+<!--<br>
+<hr>-->
 <link rel="stylesheet" href="/css/youCanTemplateFont.css">
-    <p><b>This is my footer area.</b></p>
+    <!--<p><b>This is my footer area.</b></p>-->
     <ul>  
     <li><a href="/plandemo/plan.html">Site Plan</a></li>
     <li><a href="teachingpresentation.php">Teaching Presentation</a></li>
@@ -14,7 +14,7 @@
     </li>
 </ul>
 <br>
-<div>
-    <p>Last Update: 11 June, 2016</p>
+<div id="copyRight">
+    <p>Last Update: 18 June, 2016</p>
     <p>&copy;2016 covsite.com</p>
 </div>
