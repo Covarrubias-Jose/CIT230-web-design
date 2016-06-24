@@ -10,7 +10,7 @@
 <!-- LINK TO THE CSS -->
 <link href="/css/screen.css" rel="stylesheet">
 <link href="/css/mobilemenu.css" rel="stylesheet">
-
+<link href="/css/footerStyle.css" rel="stylesheet">
 <!-- SCRIPT TO MAKE THE MOBILE NAV EXPAND DOWN -->
 <script>
 	$(document).ready(function(){

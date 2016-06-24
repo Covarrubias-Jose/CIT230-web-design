@@ -2,7 +2,7 @@
 <hr>-->
 <link rel="stylesheet" href="/css/youCanTemplateFont.css">
     <!--<p><b>This is my footer area.</b></p>-->
-    <ul>  
+<ul id="footerNav">  
     <li><a href="/plandemo/plan.html">Site Plan</a></li>
     <li><a href="teachingpresentation.php">Teaching Presentation</a></li>
     <li><a href="/aboutus/aboutUs.php">About Us</a></li>

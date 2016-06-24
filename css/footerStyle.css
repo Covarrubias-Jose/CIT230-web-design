@@ -1,0 +1,17 @@
+
+/*this file is used to style the footer area.*/
+
+@import url(https://fonts.googleapis.com/css?family=Handlee);
+
+
+footer{
+    font-family: 'Handlee', sans-serif;
+/*    background-color: #B7B777;*/
+    padding: 10px;
+    padding-left: 10px;
+}
+#footerNav li:hover{
+    color: #FFF;
+    display: inline-block;
+    padding: 1em;
+}
