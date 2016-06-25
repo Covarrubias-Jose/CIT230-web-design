@@ -10,8 +10,16 @@ footer{
     padding: 10px;
     padding-left: 10px;
 }
-#footerNav li:hover{
-    color: #FFF;
-    display: inline-block;
-    padding: 1em;
+/*this line targets the first list*/
+.footerNav li{
+    list-style-type: none;
+    display:inline-block;
+    padding: .5em 1em;
+}
+
+
+/*this targets the last paragraphs of the footer
+where the copy rights statement is*/
+#copyRight{
+    font-weight: bold;
 }
