@@ -27,6 +27,7 @@ main {
     border-width: 3px 4px 3px 4px;
     border-style: solid;
     padding: 10px;
+    margin-top: 1em;
     background-color: lightgray;
 }
 
