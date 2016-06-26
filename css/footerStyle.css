@@ -10,15 +10,22 @@ footer{
     padding: 10px;
     padding-left: 10px;
 }
-/*this line targets the first list*/
+/* this line targets the first list*/
 .footerNav li{
     list-style-type: none;
-    display:inline-block;
-    padding: .5em 1em;
+/*    display:inline-block;
+    padding: .5em 1em;*/
 }
 
+/* this targets the sub menu of the first list*/
+/*.footerNav li ul li a{
+    color: red;
+    z-index:99;
+    float: none;
+}*/
 
-/*this targets the last paragraphs of the footer
+
+/* this targets the last paragraphs of the footer
 where the copy rights statement is*/
 #copyRight{
     font-weight: bold;
