@@ -22,16 +22,19 @@ My site Home page.
                    size of the text to 16 points.</p>
                 <ol>
                     <li>Double click on the header area.</li>
-                    <li>Press the command key plus the letter E. example: ⌘+E this 
+                    <li>Press the command key plus the letter E. example:<image src="/siteImages/commandLogo.png" 
+                        width="20" height="20" alt="command logo">+E this 
                         will center the text. If you repeat this step text return 
                         to the left</li>
-                    <li>Then press ⌘+B to make the text bold.</li>
-                    <li>And last, press ⌘+shift+> this > is the right arrow, 
+                    <li>Then press <image src="/siteImages/commandLogo.png" 
+                        width="20" height="20" alt="command logo">+B to make the text bold.</li>
+                    <li>And last, press <image src="/siteImages/commandLogo.png" 
+                        width="20" height="20" alt="command logo">+shift+> this > is the right arrow, 
                         this will increase the font size, giving you a good title size 
                         font. It usually takes 2 right arrows to make a font 16 points.
                         Using the left < arrow decrease the size.</li>
                 </ol>
-                <video src="/videolibrary/wordHeaderShortcuts.m4v" width="660" height="580" preload controls></video>
+                <video src="/videolibrary/wordHeaderShortcuts.m4v" width="600" height="480" preload controls></video>
             </main>
             <aside role="complementary">
                 <div>
