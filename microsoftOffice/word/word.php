@@ -23,9 +23,9 @@ My site Home page.
                 <ol>
                     <li>Double click on the header area.</li>
                     <li>Press the command key plus the letter E. example:<strong><image src="/siteImages/commandLogo.png" 
-                        width="20" height="20" alt="command logo">+E</strong> this 
-                        will center the text. If you repeat this step text return 
-                        to the left</li>
+                        width="24" height="16" alt="command logo">+E</strong> this 
+                        will center the text. If you repeat this step text returns 
+                        to the left.</li>
                     <li>Then press <strong><image src="/siteImages/commandLogo.png" 
                         width="20" height="20" alt="command logo">+B</strong> to make the text bold.</li>
                     <li>And last, press <strong><image src="/siteImages/commandLogo.png" 
