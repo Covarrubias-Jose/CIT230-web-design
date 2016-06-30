@@ -8,7 +8,7 @@ header{
 /*    background-color: #B7B777;*/
     padding: 10px;
 }
-@media only screen and (min-width: 601px){
+@media only screen and (min-width: 761px){
 body{
     
     background-image: url("../siteImages/gearWheels.jpg");
@@ -19,10 +19,10 @@ body{
     background-position: 70% 80%; 
     background-attachment: fixed;
     margin: 1em 2em 3em 2em;
-    
-    
-
 }
+
+
+/*braket for media query*/
 }
 main {
     border-width: 3px 4px 3px 4px;

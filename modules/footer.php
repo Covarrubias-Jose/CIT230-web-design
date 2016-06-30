@@ -15,6 +15,6 @@
 </ul>
 <br>
 <div id="copyRight">
-    <p>Last Update: 18 June, 2016</p>
+    <p>Last Update: 29 June, 2016</p>
     <p>&copy;2016 covsite.com</p>
 </div>
