@@ -4,7 +4,7 @@
 
 .nav-button { display: none; } /* hide the navigation button by default */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
 
 	/* Navigation Button
 	-------------------------------------------------------- */
@@ -78,7 +78,7 @@
 		display: block;
 		width: 100%; /*change to 100% when useing the box model correction*/
 		padding: 10px 5%;
-		font-size: 14px;
+		font-size: 18px;
 		font-weight: 900;
 		text-shadow: -1px -1px 0 rgba(0,0,0,.15);
 		color: white;
@@ -118,17 +118,23 @@
 	.primary-nav li.parent > a:hover {
 		background: rgba(0,0,0,.75);
 	}
+        
+        /* This block targets the 2nd menu, for the phone */
 	.primary-nav li ul {
 		display: none;
-		background: rgba(0,0,0,.5);
+		background: #7B7B69;
 		border-top: 0 none;
 		padding: 0;
+               
 	}
+        /* This block targets the 2nd menu, for the phone
+            only the text and the inside */
 	.primary-nav li ul a {
 		border: 0 none;
-		font-size: 12px;
+		font-size: 16px;
 		padding: 10px 5%;
 		font-weight: 300;
+                
 	}
 	.primary-nav li:hover ul {
 		display: block;

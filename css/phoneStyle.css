@@ -1,16 +1,17 @@
 
 
 /* For small screens, like phones. */
-@media only screen and (max-width: 760px){
+@media only screen and (max-width: 900px){
 
 body{
-       background-image: url("../siteImages/wheelsPhone.jpg");
+       background-image: url("../siteImages/gearWheelsEdited.jpg");
 /*    ====the first number is horizontal, and if I increase 
     the % the image goes to the center, from right to left====
     ======the second % controls the vertical position, if I increase it
           the image goes from bottom to top====*/
     background-position: 90% 60%; 
     background-attachment: fixed;
+    background-size: auto;
     margin: 1em 2em 3em 2em;
     background-repeat: repeat-y;
 }

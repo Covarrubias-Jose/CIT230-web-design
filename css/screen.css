@@ -14,7 +14,7 @@ div.keepOpen{
 
 
 /* START DESKTOP NAVIGATION */
-@media screen and (min-width: 701px){
+@media screen and (min-width: 901px){
     nav {
         background-color: #333333;
     }
