@@ -33,6 +33,7 @@ My site Home page.
            <div>
                <p>test the aside element</p>
                <p>I'm adding links to my You Tube channel</p>
+               <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/aside.php'; ?> 
            </div>
        </aside>
         

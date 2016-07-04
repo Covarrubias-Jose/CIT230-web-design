@@ -20,7 +20,7 @@ My site Home page.
             </main>
             <aside role="complementary">
                 <div>
-
+                        <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/aside.php'; ?>
                 </div>
             </aside>
             <footer role="contentinfo">
