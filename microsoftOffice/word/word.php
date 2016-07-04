@@ -38,7 +38,7 @@ My site Home page.
             </main>
             <aside role="complementary">
                 <div>
-
+                    <p>Testing the aside in the word page</p>
                 </div>
             </aside>
             <footer role="contentinfo">

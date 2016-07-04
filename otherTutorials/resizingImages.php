@@ -16,8 +16,8 @@ My site Home page.
                 <?php include $_SERVER['DOCUMENT_ROOT'] . '/modules/navigation.php'; ?>
             </nav>
             <main role="main">
-                <p>This video was recorded with Quick Timer on a Mac, and it is not formated yet.</p>
-                <video src="/videolibrary/resizingImages.mp4" width="660" height="580" preload controls></video>
+                <p>This video was recorded with QuickTime on a Mac, and it is not formated yet.</p>
+                <video src="/videolibrary/resizingImages.mp4" width="800" height="680" preload controls></video>
             </main>
             <aside role="complementary">
                 <div>

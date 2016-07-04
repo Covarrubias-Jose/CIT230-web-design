@@ -1,43 +1,53 @@
 
 
-@import url(https://fonts.googleapis.com/css?family=Coming+Soon:400);
+        @import url(https://fonts.googleapis.com/css?family=Coming+Soon:400);
 
-header{
-    
-    font-family: 'Coming+Soon', sans-serif;
-/*    background-color: #B7B777;*/
-    padding: 10px;
-}
-@media only screen and (min-width: 901px){
-body{
-    
-    background-image: url("../siteImages/gearWheels.jpg");
-    /*====the first number is horizontal, and if I increase 
-    the % the image goes to the center, from right to left====
-    ======the second % controls teh vertical position, if I increase it
-          the image goes from bottom to top====*/
-    background-position: 70% 80%; 
-    background-attachment: fixed;
-    
-    margin: 1em 2em 3em 2em;
-}
+        header{
 
+            font-family: 'Coming+Soon', sans-serif;
+        /*    background-color: #B7B777;*/
+            padding: 10px;
+        }
+        @media only screen and (min-width: 901px){
+        body{
 
-/*braket for media query*/
-}
-main {
-    border-width: 3px 4px 3px 4px;
-    border-style: solid;
-    padding: 10px;
-    margin-top: 1em;
-    background-color: lightgray;
-}
-video{
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
-}
+            background-image: url("../siteImages/gearWheels.jpg");
+            /*====the first number is horizontal, and if I increase 
+            the % the image goes to the center, from right to left====
+            ======the second % controls teh vertical position, if I increase it
+                  the image goes from bottom to top====*/
+            background-position: 70% 80%; 
+            background-attachment: fixed;
+            background-size: cover;
+            margin: 1em 2em 3em 2em;
+        }
+        aside {
+            border-width: 3px 3px 3px 3px;
+            border-style: solid;
+            padding: 10px;
+            margin-top: 1em;
+            margin-left: 81%;
+            background-color: lightgray;
+
+        }
+        main {
+            border-width: 3px 4px 3px 4px;
+            border-style: solid;
+            padding: 10px;
+            margin-top: 1em;
+            margin-right: 20%;
+            background-color: lightgray;
+            float: left;
+        }
+        /*braket for media query*/
+        }
+
+        video{
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: auto;
+        }
 
 
 

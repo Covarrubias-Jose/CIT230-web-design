@@ -9,10 +9,29 @@ body{
     the % the image goes to the center, from right to left====
     ======the second % controls the vertical position, if I increase it
           the image goes from bottom to top====*/
-    background-position: 90% 60%; 
+    /*background-position: 90% 60%;*/ 
     background-attachment: fixed;
-    background-size: auto;
+    background-size: 100%;
     margin: 1em 2em 3em 2em;
     background-repeat: repeat-y;
 }
+main {
+    border-width: 3px 4px 3px 4px;
+    border-style: solid;
+    padding: 10px;
+    margin-top: 1em;
+/*    margin-right: 20%;*/
+    background-color: lightgray;
+/*    float: left;*/
+}
+aside {
+    border-width: 3px 3px 3px 3px;
+    border-style: solid;
+    padding: 10px;
+    margin-top: 1em;
+/*    margin-left: 81%;*/
+    background-color: lightgray;
+    
+}
+/*This the braket for the media query*/
 }
