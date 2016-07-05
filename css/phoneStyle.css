@@ -1,37 +1,37 @@
 
 
-/* For small screens, like phones. */
-@media only screen and (max-width: 900px){
+        /* For small screens, like phones. */
+        @media only screen and (max-width: 900px){
 
-body{
-       background-image: url("../siteImages/gearWheelsEdited.jpg");
-/*    ====the first number is horizontal, and if I increase 
-    the % the image goes to the center, from right to left====
-    ======the second % controls the vertical position, if I increase it
-          the image goes from bottom to top====*/
-    /*background-position: 90% 60%;*/ 
-    background-attachment: fixed;
-    background-size: 100%;
-    margin: 1em 2em 3em 2em;
-    background-repeat: repeat-y;
-}
-main {
-    border-width: 3px 4px 3px 4px;
-    border-style: solid;
-    padding: 10px;
-    margin-top: 1em;
-/*    margin-right: 20%;*/
-    background-color: lightgray;
-/*    float: left;*/
-}
-aside {
-    border-width: 3px 3px 3px 3px;
-    border-style: solid;
-    padding: 10px;
-    margin-top: 1em;
-/*    margin-left: 81%;*/
-    background-color: lightgray;
-    
-}
-/*This the braket for the media query*/
-}
+        body{
+               background-image: url("../siteImages/gearWheelsEdited.jpg");
+        /*    ====the first number is horizontal, and if I increase 
+            the % the image goes to the center, from right to left====
+            ======the second % controls the vertical position, if I increase it
+                  the image goes from bottom to top====*/
+            /*background-position: 90% 60%;*/ 
+            background-attachment: fixed;
+            background-size: 100%;
+            margin: 1em 2em 3em 2em;
+            background-repeat: repeat-y;
+        }
+        main {
+            border-width: 3px 4px 3px 4px;
+            border-style: solid;
+            padding: 10px;
+            margin-top: 1em;
+        /*    margin-right: 20%;*/
+            background-color: lightgray;
+        /*    float: left;*/
+        }
+        aside {
+            border-width: 3px 3px 3px 3px;
+            border-style: solid;
+            padding: 10px;
+            margin-top: 1em;
+        /*    margin-left: 81%;*/
+            background-color: lightgray;
+
+        }
+        /*This the braket for the media query*/
+        }

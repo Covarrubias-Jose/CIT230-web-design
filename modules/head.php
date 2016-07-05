@@ -10,7 +10,11 @@
 <!-- LINK TO THE CSS -->
 <link href="/css/screen.css" rel="stylesheet">
 <link href="/css/mobilemenu.css" rel="stylesheet">
+
+<!-- THIS STYLES THE FOOTER -->
 <link href="/css/footerStyle.css" rel="stylesheet">
+
+<!-- THIS STYLE THE SCREEN SIZE FOR THE PHONE AND DESKTOP -->
 <link href="/css/phoneStyle.css" rel="stylesheet">
 <link href="/css/youCanTemplateFont.css" rel="stylesheet">
 
