@@ -54,10 +54,13 @@
           /*border-style: solid;*/
           /*margin-right: 2em;*/
           /*margin-left: .5em;*/
-            max-width: 180px;
-            max-height: 180px;
+            width: 100%;
+            height: auto;
             display: block;
             margin: auto;
+        }
+        aside figure{
+            margin: 0px;
         }
         
  /*braket for media query*/
@@ -66,7 +69,7 @@
             max-width: 100%;
             height: auto;
             display: block;
-            margin: auto;
+            margin: 0px;
         }
         
         aside h2{/* this is for the h2 in the side bar*/

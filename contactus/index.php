@@ -6,6 +6,7 @@
 
 if($_POST['action'] == 'Send'){
  // now to collect data from the form
+    var_dump($_POST);
     $name = $_POST['name'];
     $email = $_POST['email'];
     $subject = $_POST['subject'];
