@@ -4,11 +4,12 @@
 @import url(https://fonts.googleapis.com/css?family=Handlee);
 
 
-footer{
+#footerEnder {
     font-family: 'Handlee', sans-serif;
 /*    background-color: #B7B777;*/
     padding: 10px;
     padding-left: 10px;
+    clear: both;
 }
 /* this line targets the first list*/
 .footerNav li{
@@ -30,3 +31,4 @@ where the copy rights statement is*/
 #copyRight{
     font-weight: bold;
 }
+

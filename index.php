@@ -18,6 +18,7 @@ My site Home page.
         </nav>
      
        <main role="main">
+           <div>
            <h2>This is now the home page or main page</h2>
            <p>Now days we can learn just about anything online, specially on You Tube, if
                you don’t know how to do something, just search for it on You Tube and most 
@@ -28,6 +29,7 @@ My site Home page.
                IMac, Windows 10, few car repairs and other stuff. The website will be a 
                compilation of tutorials that others may find useful. Videos will be 
                uploaded periodically to cover more topics of visitor’s interests. </p>
+           </div>
        </main>
        <aside role="complementary">
            <div>
