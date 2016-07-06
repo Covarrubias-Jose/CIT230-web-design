@@ -38,7 +38,6 @@ My site Home page.
             </main>
             <aside role="complementary">
                 <div>
-                    <p>Testing the aside in the word page</p>
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/aside.php'; ?>
                 </div>
             </aside>

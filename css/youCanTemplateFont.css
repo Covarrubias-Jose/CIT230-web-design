@@ -1,14 +1,20 @@
 
+        
+         
 
+         
         @import url(https://fonts.googleapis.com/css?family=Coming+Soon:400);
 
+        @media only screen and (min-width: 901px){
+            
+            
         header{
 
             font-family: 'Coming+Soon', sans-serif;
         /*    background-color: #B7B777;*/
             padding: 10px;
         }
-        @media only screen and (min-width: 901px){
+       
         body{
 
             background-image: url("../siteImages/gearWheels.jpg");
@@ -22,40 +28,51 @@
             margin: 1em 2em 3em 2em;
         }
         aside {
-            float: right;
-            width: 20%;
+            float: left;
+            width: 24%;
             border-width: 3px 3px 3px 3px;
             border-style: solid;
             padding: 10px;
             margin-top: 1em;
-            margin-left: 81%;           
-            background-color: lightgreen;
-        }
-        main, aside{
-            display: inline-block;
+            /*margin-left: 81%;*/           
+            background-color: lightgray;
         }
       
         main {
             float: left;
-            width: 50%;
+            width: 75%;
             border-width: 3px 4px 3px 4px;
             border-style: solid;
             padding: 10px;
             margin-top: 1em;
-            margin-right: 20%;
+            margin-right: 1%;
             background-color: lightgray;
-            
+        }
+        iframe{
+/*          width: 90%;
+            height: 70%;*/
+          /*border-style: solid;*/
+          /*margin-right: 2em;*/
+          /*margin-left: .5em;*/
+            max-width: 180px;
+            max-height: 180px;
+            display: block;
+            margin: auto;
         }
         
-        /*braket for media query*/
-        }
-
+ /*braket for media query*/
+}      
         video{
             max-width: 100%;
             height: auto;
             display: block;
             margin: auto;
         }
-
-
-
+        
+        aside h2{/* this is for the h2 in the side bar*/
+            text-align: center;
+        }
+        main h2{/* this is for the h2 in the main*/
+            text-align: center;
+        }
+        

@@ -1,7 +1,7 @@
 
 
 
-<div id="footerEnd">
+<div>
         <link rel="stylesheet" href="/css/youCanTemplateFont.css">
             <!--<p><b>This is my footer area.</b></p>-->
         <ul class="footerNav">  
