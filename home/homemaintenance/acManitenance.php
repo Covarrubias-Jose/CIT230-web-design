@@ -17,8 +17,8 @@ My site Home page.
             </nav>
             <main role="main">
                 <h2>Stay cool in the Summer</h2>
-                <p>To stay cool in the Summer you need to make sure that your air conditioning is <br>
-                   working in optimum conditions, and to do that you need to change the air filter at<br>
+                <p>To stay cool in the Summer you need to make sure that your air conditioning is 
+                   working in optimum conditions, and to do that you need to change the air filter at
                    least once a month. Changing air filters often helps the AC unit to work properly.
                 </p>
             </main>
