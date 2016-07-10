@@ -1,5 +1,5 @@
 
-
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
 
 /* NATURAL BOX MODEL */
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
@@ -26,6 +26,7 @@ div.keepOpen{
 nav ul li {
 	float: left;
         list-style-type: none;
+        font-family: 'Comfortaa', sans-serif;
 }
 nav ul li a { 
 	display:block;

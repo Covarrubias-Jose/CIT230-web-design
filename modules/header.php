@@ -5,7 +5,7 @@
    height="230" alt="Logo Image" title="Click on the Logo to go to home page."></a>
     
     <!--Link to the CSS file.-->
-<link rel="stylesheet" href="/css/youCanTemplateFont.css">
+    <link rel="stylesheet" href="/css/tablet.css">
 
     <!--header title-->
 <h2 id="headerH">The tutorials that will save you money

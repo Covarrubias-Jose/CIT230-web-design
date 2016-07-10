@@ -15,8 +15,8 @@
 <link href="/css/footerStyle.css" rel="stylesheet">
 
 <!-- THIS STYLE THE SCREEN SIZE FOR THE PHONE AND DESKTOP -->
-<link href="/css/phoneStyle.css" rel="stylesheet">
-<link href="/css/youCanTemplateFont.css" rel="stylesheet">
+<link href="/css/phone.css" rel="stylesheet">
+<link href="/css/tablet.css" rel="stylesheet">
 
 <!-- CODE TO MAKE IE WORK WITH NEW MEDIA QUERIES-->
 <!--[if lt IE 9]>

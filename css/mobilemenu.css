@@ -1,6 +1,6 @@
 
 
-
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
 
 .nav-button { display: none; } /* hide the navigation button by default */
 
@@ -72,7 +72,7 @@
 	.primary-nav li {
 		display: none;
 		width: 100%;
-		font-family: Arial;
+		font-family: 'Comfortaa', sans-serif;
 	}
 	.primary-nav li a {
 		display: block;

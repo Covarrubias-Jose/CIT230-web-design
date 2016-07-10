@@ -21,7 +21,8 @@ My site Home page.
                    experience. Those filters are low cost and can be replaced at least twice a year,<br>
                    The problem lays if you don't know where it is, or how to replace it. Here we will<br>
                    show you how to do it yourself, and save money.</p>
-                <p>A video tutorial will b posted this week.</p>
+                <h3>Honda CR-V 2007</h3>
+                <video src="/videolibrary/cabinAirFilter.mp4" width="800" height="680" preload controls></video>
             </main>
             <aside role="complementary">
                 <div>
