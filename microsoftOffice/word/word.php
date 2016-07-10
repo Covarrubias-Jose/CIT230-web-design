@@ -34,7 +34,7 @@ My site Home page.
                         font. It usually takes 2 right arrows to make a font 16 points.
                         Using the left < arrow decrease the size.</li>
                 </ol>
-                <video src="/videolibrary/wordHeaderShortcuts.m4v" width="800" height="680" preload controls></video>
+                <video src="/videolibrary/wordHeaderShortcuts.m4v" preload controls></video>
             </main>
             <aside role="complementary">
                 <div>

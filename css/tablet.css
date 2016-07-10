@@ -1,92 +1,65 @@
+    
 
+@media only screen and (min-width: 781px){
+    
+    aside iframe{
         
-         
-
-         
-        @import url(https://fonts.googleapis.com/css?family=Coming+Soon:400);
-        @import url(https://fonts.googleapis.com/css?family=Comfortaa);
-
-        @media only screen and (min-width: 901px){
-            
-            
-        header{
-
-            font-family: 'Comfortaa', sans-serif;
-            padding: 10px; 
-        }
-        header h2{
-            max-width: 60%;
+        margin: auto;
+    }
+            header h2{
+            max-width: 100%;
             height: auto;
-            float: right;
-            margin-top: 1em;
-   
+            margin: 0px;
         }
-       
         body{
-
-            background-image: url("../siteImages/gearWheels.jpg");
-            /*====the first number is horizontal, and if I increase 
+            background-image: url("../siteImages/gearWheelsEdited.jpg");
+            /* ====the first number is horizontal, and if I increase 
             the % the image goes to the center, from right to left====
-            ======the second % controls teh vertical position, if I increase it
+            ======the second % controls the vertical position, if I increase it
                   the image goes from bottom to top====*/
-            background-position: 70% 80%; 
+            background-position: 90% 60%; 
             background-attachment: fixed;
-            background-size: cover;
-            margin: 1em 2em 3em 2em;
+            background-size: 100%;
+            margin: 1em .5em 3em .5em;
+            background-repeat: repeat-y;
         }
-        aside {
-            float: left;
-            width: 24%;
-            border-width: 3px 3px 3px 3px;
-            border-style: solid;
-            padding: 10px;
-            margin-top: 1em;
-            margin-right: 0px;           
-            background-color: #B5B5B3;
-        }
-      
         main {
-            font-family: 'Comfortaa', sans-serif;
-            float: left;
-            width: 75%;
             border-width: 3px 4px 3px 4px;
             border-style: solid;
             padding: 10px;
             margin-top: 1em;
-            margin-right: 0.5%;
+            margin-left: 0px;
+            margin-right: 0px;
             margin-bottom: 1em;
-            background-color: #B5B5B3;
+            background-color: #DADADA;
+            opacity: 0.98;
+
+        }
+        aside {
+            border-width: 3px 3px 3px 3px;
+            border-style: solid;
+            padding: 10px;
+            margin-top: 1em;
+            margin-left: 0px;
+            margin-right: 0px;
+            background-color: #DADADA;
+            opacity: 0.9;
+        }
+       .footerNav li{
+            list-style-type: none;
+            display:inline;
+            padding: .5em 1em;
+        }
+        footer ul{
+            text-align: center;
+        }
+        figcaption{
+            text-align: center;
         }
         iframe{
-            width: 100%;
-            height: auto;
-            display: block;
             margin: auto;
         }
-        aside figure{
-            margin: 0px;
-        }
-        
- 
-}/*braket for media query*/    
-
-/* THE CODE BELOW APPLIES TO ALL BROWSER SIZES */
-        video{
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 0px;
-        }
-        aside{
-            font-family: 'Comfortaa', sans-serif;
-            margin-bottom: 1em;
-        }
-        
-        aside h2, h3{/* this is for the h2 in the side bar*/
+        aside p{
             text-align: center;
         }
-        main h2{/* this is for the h2 in the main*/
-            text-align: center;
-        }
-
-        
+}

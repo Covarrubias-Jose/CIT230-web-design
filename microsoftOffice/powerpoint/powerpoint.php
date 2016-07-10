@@ -16,7 +16,15 @@ My site Home page.
                 <?php include $_SERVER['DOCUMENT_ROOT'].'/modules/navigation.php'; ?>
             </nav>
             <main role="main">
-                <p>Place for the PowerPoint tutorials.</p>
+                <h2>Remove the Background of an Image with PowerPoint.</h2>
+                <p>
+                    PowerPoint is without a doubt a powerful tool when it comes to creating 
+                    presentations. One of my favorite tools is the option to remove the 
+                    background of an image. This gives me the ability to create my own art
+                    to add to other presentation. On this video I will show you how this 
+                    tool works.
+                </p>
+                <video src="/videolibrary/removeBackground.m4v" preload controls></video>
             </main>
             <aside role="complementary">
                 <div>

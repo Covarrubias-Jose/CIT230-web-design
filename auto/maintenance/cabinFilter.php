@@ -17,10 +17,11 @@ My site Home page.
             </nav>
             <main role="main">
                 <h2>Changing the cabin filter</h2>
-                <p>Most cars today have been design with a cabin filter for a clean air conditioning<br>
-                   experience. Those filters are low cost and can be replaced at least twice a year,<br>
-                   The problem lays if you don't know where it is, or how to replace it. Here we will<br>
-                   show you how to do it yourself, and save money.</p>
+                <p>Most cars today have been design with a cabin filter for a clean air conditioning
+                   experience. Those filters are low cost and can be replaced at least twice a year,
+                   The problem lays if you don't know where it is, or how to replace it. Here we will
+                   show you how to do it yourself, and save money.
+                </p>
                 <h3>Honda CR-V 2007</h3>
                 <video src="/videolibrary/cabinAirFilter.mp4" width="800" height="680" preload controls></video>
             </main>

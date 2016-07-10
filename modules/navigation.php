@@ -31,7 +31,7 @@
     <li><a>Other Tutorials</a>
         <ul>
             <li><a href="/otherTutorials/resizingImages.php">Resize Images</a></li>
-            <li><a href="/otherTutorials/testingTemplate.php">testing template</a></li>
+            <li><a href="/otherTutorials/formatVideo_Mac.php">Format video on Mac</a></li>
         </ul>
     </li>
 </ul>

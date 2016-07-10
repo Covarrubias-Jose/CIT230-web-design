@@ -10,17 +10,10 @@ footer div{
     padding: 10px;
     padding-left: 10px;
     clear: both;
-    background-color: #B5B5B3;
+    background-color: #DADADA;
     opacity: 0.8;
 }
-/* this line targets the first list*/
-.footerNav li{
-    list-style-type: none;
-    display:inline;
-    padding: .5em 1em;
-    text-align: center;
-    align-content: center;
-}
+
 
 /* this targets the sub menu of the first list*/
 /*.footerNav li ul li a{
