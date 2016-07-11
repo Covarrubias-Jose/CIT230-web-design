@@ -10,6 +10,6 @@
     <link rel="stylesheet" href="/css/desktop.css">
 
     <!--header title-->
-<h2 id="headerH">The tutorials that will save you money
+<h1 id="headerH">The tutorials that will save you money
     and teach you one or two things along the way.
-</h2>
+</h1>
