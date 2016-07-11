@@ -2,11 +2,15 @@
 
          /*For small screens, like phones.*/ 
         /*@media only screen and (max-width: 780px){*/
+         @import url(https://fonts.googleapis.com/css?family=Comfortaa);
             
-        header h2{
+        header h1{
             max-width: 100%;
             height: auto;
             margin: 0px;
+        }
+        h1{
+          font-family: 'Comfortaa', sans-serif;
         }
         body{
             background-image: url("../siteImages/gearWheelsEdited.jpg");
