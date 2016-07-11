@@ -59,7 +59,24 @@
         .footerNav li{
             list-style-type: none;
             padding: .5em 1em;
-}
+        }
+        .sitePlanCSS h3{
+            text-align: left;
+        }
+        #PCview{
+            width: 100%;
+            height: auto;
+        }
+        #pnView{
+            width: 40%;
+            height: auto;
+        }
+        table,th, tr, td{
+            border: 1px solid;
+        }
+        .sitePlanCSS table tbody{
+            width: auto;
+        }
         
         
 /*This the braket for the media query*/

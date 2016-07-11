@@ -62,4 +62,7 @@
         aside p{
             text-align: center;
         }
+        .sitePlanCSS h3{
+            text-align: left;
+        }
 }

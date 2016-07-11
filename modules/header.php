@@ -5,6 +5,8 @@
    height="230" alt="Logo Image" title="Click on the Logo to go to home page."></a>
     
     <!--Link to the CSS file.-->
+    <link href="/css/phone.css" rel="stylesheet">
+    <link href="/css/tablet.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/desktop.css">
 
     <!--header title-->

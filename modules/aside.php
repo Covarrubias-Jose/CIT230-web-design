@@ -1,6 +1,8 @@
 
 
-<link href="/css/tablet.css" rel="stylesheet">
+    <link href="/css/phone.css" rel="stylesheet">
+    <link href="/css/tablet.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/desktop.css">
 <h2>On the Other Hand</h2>
 <h3>LDS Activities in Arizona</h3>
         <p>
