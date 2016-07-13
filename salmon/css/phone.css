@@ -1,0 +1,35 @@
+
+
+/*<!--THIS FILE IS FOR THE FINAL PROJECT CIT 230-->*/
+
+/* NATURAL BOX MODEL */
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+
+h1{
+    color: red;
+}
+/* Structure for the headerL */
+header{
+    background-color: lightcyan;
+}
+
+/* structure for the Navigation */
+nav{
+    background-color: lightskyblue;
+}
+
+/* Structure for the main */
+main{
+    background-color: lightgreen;
+}
+
+/* Structure for the aside */
+aside{
+    background-color: lightsalmon;
+}
+
+/* Structure for the footer */
+footer{
+    background-color: lightseagreen;
+}
