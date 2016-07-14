@@ -9,6 +9,6 @@
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 
 
-<link href="/css/phone.css" rel="stylesheet">
-<link href="/css/tablet.css" rel="stylesheet">
-<link href="/css/desktop.css" rel="stylesheet">
+<link href="/salmon/css/phone.css" rel="stylesheet">
+<link href="/salmon/css/tablet.css" rel="stylesheet">
+<link href="/salmon/css/desktop.css" rel="stylesheet">
