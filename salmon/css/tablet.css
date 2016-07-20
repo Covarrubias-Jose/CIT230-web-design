@@ -2,3 +2,27 @@
 
 
 /*<!--THIS FILE IS FOR THE FINAL PROJECT CIT 230-->*/
+
+
+@media only screen and (min-width: 768px){
+
+
+body{
+    background-color: #98ED98;
+}    
+header img{
+    width: 300px;
+}
+header{
+    height: 260px;
+}
+main figure{
+    width: 45%;
+    float: left;
+    margin: 1%;
+}
+main figure img{
+    height: 228px;
+    
+}
+}

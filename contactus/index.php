@@ -6,7 +6,7 @@
 
 if($_POST['action'] == 'Send'){
  // now to collect data from the form
-    var_dump($_POST);
+    
     $name = $_POST['name'];
     $email = $_POST['email'];
     $subject = $_POST['subject'];
@@ -36,7 +36,7 @@ if($_POST['action'] == 'Send'){
     $finalmessage .= "Message: \n $message";
     
     // Send the message.
-    $to = 'pepitotkm@gmail.com';
+    $to = 'tutorials@covsite.com';
     $from = "From: $email";
     $result = mail($to, $subject, $finalmessage, $from);
     

@@ -7,7 +7,7 @@ This is the file for the final assignment of CIT 230, July 2016.
     <head>
         <?php include $_SERVER['DOCUMENT_ROOT'] . '/salmon/modules/head.php'; ?>
 
-        <title>CHANGE MY TITLE</title>            
+        <title>About Us</title>            
     </head>
 
     <body>
@@ -21,10 +21,16 @@ This is the file for the final assignment of CIT 230, July 2016.
         <!-- THIS PART IS THE ONLY ONE THAT CHANGES ON EACH PAGE FOR CONSISTENCY  -->
         <main>
             <div>
-                <h2>Salmon River Adventures</h2>
-                <p>This site was created to hel those fishing enthusiasts to get the real
+                <h1>Salmon River Adventures</h1>
+                <h3>Want to know about us?</h3>
+                <p>This site was created to help those fishing enthusiasts to get the real
                    experience. Our goal is to provide you tips and other resources that 
                    will make the difference in your next trip. 
+                </p>
+                <p>
+                    For over 15 years we have provided tours and experience for people 
+                    visiting the river. We live here, and we want everyone that comes 
+                    to visit to get the best experience of what we consider our home.
                 </p>
             </div>
         </main>

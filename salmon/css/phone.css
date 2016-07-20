@@ -2,34 +2,117 @@
 
 /*<!--THIS FILE IS FOR THE FINAL PROJECT CIT 230-->*/
 
-/* NATURAL BOX MODEL */
+/* IMPORTS FONT FROM GOOGLE */
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
+@import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
+@import url(https://fonts.googleapis.com/css?family=Alef);
+
+/* NATURAL BOX MODEL =========================================================*/
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
+body{
+    /*background-image: url("../salmonSiteImages/lightAzul.png");*/
+    background-color: #B3FFEA;
+    background-repeat: no-repeat;
+}
 
-h1{
+h1, h2, h3{
     color: red;
 }
-/* Structure for the headerL */
+*{
+    font-family: 'Alef', sans-serif;
+}
+
+/* Structure for the headerL =================================================*/
 header{
-    background-color: lightcyan;
+    background-image: url("../salmonSiteImages/salmon_jumping.jpg");
+    background-size: cover;
+    height: 200px;
+}
+header img{
+    width: 250px;
 }
 
-/* structure for the Navigation */
+/* structure for the Navigation ==============================================*/
 nav{
-    background-color: lightskyblue;
+    
 }
 
-/* Structure for the main */
+/* Structure for the main =================================================== */
 main{
-    background-color: lightgreen;
+/*    background-color: lightgreen;
+    border-style: solid;*/
+    padding: 1em;
+    margin-top: .5em;
+}
+main div figure img{
+    width: 100%
+}
+main figure{
+    margin: 0px;
+}
+main figure img:hover{
+    border-style: solid;
+}
+main figcaption{
+    padding-bottom: .5em;
+}
+#salmonMap, #salmonMapFrame{
+    width: 100%;
+    padding: 0px;
+}
+main img{
+    width: 100%;
 }
 
-/* Structure for the aside */
+article img{
+    width: 100%;
+}
+
+/*============================================================================*/
+/*=======This is for the form in the contact us page==========================*/
+#action{
+    border-style: outset;
+    float: left;
+    border-radius: 8px;
+}
+#name, #email, #subject, #message,
+#captcha,#cap_code{
+    margin: .5em;
+    margin-left: 0em;
+}
+main form img{
+    width: 200px;
+    height: 80px;
+}
+/*============================================================================*/
+
+/* Structure for the aside ===================================================*/
 aside{
-    background-color: lightsalmon;
+    clear: both;
 }
 
 /* Structure for the footer */
 footer{
-    background-color: lightseagreen;
+    /*background-color: #98ED98;*/
+    background-image: url("../salmonSiteImages/Atlantic_salmon.jpg");
+    opacity: .7;
+    padding: 1em;
+    background-position: 10% 70%;
+    color: #FFFFFF;
+    margin-top: 1em
+}
+footer ul li{
+    list-style-type: none;
+   padding: .5em;
+}
+footer ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 900;
+    
+}
+footer ul{
+    padding: 0px;
 }

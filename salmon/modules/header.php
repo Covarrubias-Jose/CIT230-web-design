@@ -1,4 +1,4 @@
 <!--THIS FILE IS FOR THE FINAL PROJECT CIT 230-->
 
 
-<h2>Header Area</h2>
+<a href="/salmon//index.php"><img src="/salmon/salmonSiteImages/RedLogo.png" alt="picture of logo" title="Home page"></a>
