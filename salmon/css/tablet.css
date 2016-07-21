@@ -16,6 +16,23 @@ header img{
 header{
     height: 260px;
 }
+nav{
+    background-color: #B3FFEA;
+    font-size: 22px;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    padding-right: 1em;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li:hover{
+    border-style: outset;
+}
 main figure{
     width: 45%;
     float: left;

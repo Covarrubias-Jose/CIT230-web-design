@@ -27,7 +27,7 @@ This is the file for the final assignment of CIT 230, July 2016.
             your needs; whether you are solo, a group, or a family there are different
             options for you to plan the next nature adventure.
         </p>
-        <p>Please select from the options below.</p>
+        <p id="bold">Please select from the options below.</p>
         <figure>
             <figcaption>Kayaking</figcaption>
             <a href="/salmon/salmonPages/kayaking.php"><img src="/salmon/salmonSiteImages/kayak.jpg"></a>

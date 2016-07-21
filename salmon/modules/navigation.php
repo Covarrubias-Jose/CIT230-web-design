@@ -3,7 +3,7 @@
 
 <ul class="primary-nav">
     <li><a href="/salmon/index.php">Home</a></li>
-    <li><a href="#">Adventures</a></li>
+    <li><a href="/salmon/salmonPages/weather.php">Weather</a></li>
     <li><a href="/salmon/salmonPages/guidesIntro.php">Guides</a></li>
     <li><a href="/salmon/salmonPages/salmonMap.php">Map</a></li>
     <li><a href="/salmon/salmonPages/lodge.php">Lodge</a></li>

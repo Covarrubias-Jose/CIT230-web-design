@@ -22,6 +22,9 @@ h1, h2, h3{
 *{
     font-family: 'Alef', sans-serif;
 }
+#bold{
+    font-weight: 800;
+}
 
 /* Structure for the headerL =================================================*/
 header{
@@ -64,7 +67,10 @@ main figcaption{
 main img{
     width: 100%;
 }
-
+main div figure iframe{
+    width: 100%;
+    height: 370px;
+}
 article img{
     width: 100%;
 }
@@ -99,8 +105,9 @@ footer{
     opacity: .7;
     padding: 1em;
     background-position: 10% 70%;
-    color: #FFFFFF;
-    margin-top: 1em
+    color:  #FFFFFF;
+    margin-top: 1em;
+    font-weight: 900;
 }
 footer ul li{
     list-style-type: none;

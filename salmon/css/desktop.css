@@ -56,8 +56,9 @@ nav ul li:hover{
 main figure img{
     height: 300px; 
 }
-main, main figure{
-    
+#lodgePic{
+    width: 65%;
+    float: right;margin-left: 1%;
 }
 footer{
     text-align: center;
