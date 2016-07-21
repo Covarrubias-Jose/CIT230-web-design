@@ -52,7 +52,7 @@ nav ul li a{
     transition: .5s ease;
 }
 nav ul li:hover{
-    border-style: outset;
+    background-color: #00ADA6;
 }
 main figure img{
     height: 300px; 
