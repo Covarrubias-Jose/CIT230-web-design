@@ -41,7 +41,7 @@ This is the file for the final assignment of CIT 230, July 2016.
                 <h3>Skills required:</h3>
                 <ul>
                     <li>Swimming</li>
-                    <li>Paddle</li>
+                    <li>Rowing</li>
                 </ul>
             </div>
         </main>

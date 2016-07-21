@@ -26,7 +26,7 @@ This is the file for the final assignment of CIT 230, July 2016.
                 <h3>Credentials</h3>
                 <ul>
                     <li>Professional rafter</li>
-                    <li>Member of the United States Rafting Association <a href="http://www.usaraftassociation.com/">(USRA)</a></li>
+                    <li>Member of the United States Rafting Association <a href="http://www.usaraftassociation.com/" target="_blank">(USRA)</a></li>
                 </ul>
                 <h3>Years of Experience</h3>
                 <p>3 years with us, and 4 years in a professional raft team. </p>

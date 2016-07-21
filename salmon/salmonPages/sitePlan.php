@@ -89,6 +89,61 @@ This is the file for the final assignment of CIT 230, July 2016.
                     <li>Can I bring my own equipment?</li>
                     <li>Is it safe for kids?</li>
                 </ol>
+                <h2>Content list</h2>
+                <ol>
+                    <li>Our company offers lodging accommodations for people to stay close to the river and camping locations.</li>
+                    <li>We offer discounts for large groups and families, also for few seasons of the year.</li>
+                    <li>We have tour guides that teach classes for those individuals with no previews experience fishing.</li>
+                    <li>You can bring your own equipment or rent some of ours.</li>
+                    <li>Most of our location are safe for kids, safety rules are in place for the kids and for the parents.</li>
+                </ol>
+                <h2>Male Persona</h2>
+                <h3>Group:</h3>
+                <p>Web developer.</p>
+                <h3>Name:</h3>
+                <p>Jose Covarrubias.</p>
+                <h3>Job title:</h3>
+                <p>Entry level developer. Fresh out of college, finishing the internship
+                    at a web developing company. He works in the frontend department
+                    and is responsible for the presentation of the sites they build.
+                </p>
+                <h3>Demographics:</h3>
+                <p>: 33 years old, married, 2 kids, bachelor’s degree in computer science.                     </p>
+                <h3>Goals and tasks:</h3>
+                <p>He’s buried in the computer all day during work week. He wants 
+                    to get outdoor to relax and spent time with family.</p>
+                <h3>Technical:</h3>
+                <p>85% of the time uses his Galaxy Note 4 for web browsing.</p>
+                <h3>Quote:</h3>
+                <p>: I need to find a place to get out.</p>
+                
+                <h2>Female Persona</h2>
+                <h3>Group:</h3>
+                <p>HR training manager.</p>
+                <h3>Name:</h3>
+                <p>Tina Tuner.</p>
+                <h3>Job title:</h3>
+                <p>she’s in charge for the training and explaining benefits of all new hires at her company. </p>
+                <h3>Demographics:</h3>
+                <p>34 years old, mom of 2, married, bachelor’s degree on hospitality. </p>
+                <h3>Goals and tasks:</h3>
+                <p>she loves been outdoor, her kids are 12 and 13, they love any activity
+                    that involves nature. She wants a place where she can feel safe to 
+                    take and leave them there for few hours.
+                </p>
+                <h3>Technical:</h3>
+                <p>She surfs the web mostly on her laptop while replying to work emails.</p>
+                <h3>Quote:</h3>
+                <p>Is this place safe, and does it have more than one thing to do?</p>
+                
+                
+                <h2>Font</h2>
+                <p>Imported from Google fonts: Alef</p>
+                <h2>Colors</h2>
+                <p><a style="background-color: #B3FFEA">For small screens</a></p>
+                <p><a style="background-color: #98ED98">For tablets screens</a></p>
+                <p><a style="background-color: #B3E6FF">For desktop screens, if you don't see it , that's the color.</a></p>
+                
             </div>
         </main>
 

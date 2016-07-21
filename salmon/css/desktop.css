@@ -36,6 +36,7 @@ h2,h3,p,ul.guideBoi{
 nav{
     background-color: #B3FFEA;
     font-size: 22px;
+    text-align: center;
 }
 nav ul{
     list-style-type: none;
